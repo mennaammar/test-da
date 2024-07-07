@@ -220,10 +220,6 @@
 							"description": "A list of the vsis names provisioned within the VPCs"
 						},
 						{
-							"key": "password",
-							"description": "List of resource groups names used within landing zone."
-						},
-						{
 							"key": "region",
 							"description": "A list of VSI with name, id, zone, and primary ipv4 address, VPC Name, and floating IP."
 						}
